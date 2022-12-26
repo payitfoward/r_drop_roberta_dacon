@@ -27,10 +27,6 @@
 - Public score : 75.771 (6/565) (ensemble seed = [3,4,5])
 - Private score : 75.27 (18/565)
 
-## Future works
-
-- loss can't coverge with klue/RoBERTa-large (I think it's because of hyperparameter. it can be get higher score)
-
 ## Workers
 
 ### [노영준](https://github.com/youngjun-99)
