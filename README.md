@@ -1,4 +1,4 @@
-# Regularized Drop with RoBERTa SEP token Pooling
+# Regularized Drop with RoBERTa SEP Pooling
 
 ## Dacon competitions
 - [문장 유형 분류 AI 경진대회](https://dacon.io/competitions/official/236037/overview/description)
